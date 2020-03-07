@@ -1,0 +1,4 @@
+{
+    "mongoDbUri": "mongodb://localhost/news",
+    "jwtSecret": "a secret phrase!"
+}

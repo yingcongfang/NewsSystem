@@ -1,0 +1,9 @@
+flask
+flask-jsonrpc
+pymongo
+pika
+requests
+redis
+lxml
+sklearn
+newspaper3k

@@ -1,0 +1,14 @@
+.news-intro-col {
+    display: inline-flex;
+    color: black;
+    height: 100%;
+}
+
+.news-intro-panel {
+    margin: auto 5px;
+    text-align: left;
+}
+
+.news-description {
+    
+}
